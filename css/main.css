@@ -40,11 +40,11 @@ plong
     display: block;
     margin-top: 2em;
     margin-bottom: 2em;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 0;
+    margin-right: 0;
     text-align:  left;
-    PADDING-LEFT:15%;
-    PADDING-RIGHT:15%
+    PADDING-LEFT:5%;
+    PADDING-RIGHT:5%
 
 }
 
